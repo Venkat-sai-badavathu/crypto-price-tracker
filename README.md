@@ -1,6 +1,7 @@
 # Crypto Market Tracker 🚀
 
 ![Project Screenshot](./public/screenshot.png)
+*[Watch Full Video Demo](https://drive.google.com/drive/folders/1EVSLnPxue5NVYOIpbJgJs6ms-nG8nOZx?usp=drive_link)*
 
 A responsive React + Redux application that tracks real-time cryptocurrency prices with simulated WebSocket updates, featuring interactive charts and comprehensive market data.
 
