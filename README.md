@@ -33,5 +33,5 @@ A responsive React + Redux application that tracks real-time cryptocurrency pric
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-tracker.git
-cd crypto-tracker
+git clone https://github.com/Venkat-sai-badavathu/crypto-price-tracker.git
+cd crypto-price-tracker
